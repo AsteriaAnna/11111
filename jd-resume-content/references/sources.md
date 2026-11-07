@@ -13,6 +13,8 @@
 - [Reactive Resume Content Guide](https://github.com/reactive-resume/reactive-resume/blob/main/plugins/reactive-resume/skills/resume-content-guide/SKILL.md) 提出的“先确定 2—3 个卖点，再看简历开头是否传达”用于本项目的候选人定位与逆读检查。它是社区技能的编辑方法，不是招聘方公布的筛选规则。
 - [Build Tailored Resume](https://github.com/chasey-myagi/resume-agent-skill/blob/main/SKILL.md) 的先定主要优势、压低次要素材再写稿，启发本项目在写作前做取舍；不照搬其文件制作和冗长关卡。
 - [Resume as Product Coach](https://github.com/BrennanJCollins/UnabatedPM-coaching/blob/main/unabatedpm-career-growth/skills/resume-as-product-coach/SKILL.md) 强调从任务清单中提炼判断和个人贡献。本项目只吸收这一通用问题意识，不把产品经理的叙事框架强加给技术或其他岗位。
+- [密歇根大学 University Career Center：Resume Resources](https://careercenter.umich.edu/article/resume-resources) 将摘要列为可选，强调简历要便于快速浏览，项目要点须展示技能、做法或影响；[宾夕法尼亚大学 Career Services：Write a Resume/CV](https://careerservices.upenn.edu/channels/resume/) 也将 Summary/Profile 视为可选栏目，要求内容具体、聚焦优势。本项目因此只在跨经历定位确有帮助时加入顶部匹配概览。
+- [宾夕法尼亚大学 Career Services：Strengthening Your Resume Bullet Points](https://careerservices.upenn.edu/blog/2022/03/29/strengthening-your-resume-bullet-points-by-answering-three-questions/) 提醒检查个人主动贡献、“做了什么”及“有什么作用”。本项目据此把短标签作为扫描辅助，标签后的动作与影响仍须可回溯；“标签＋概览”是本项目的编辑设计，不是这些机构规定的统一格式。
 
 ## 从 JD 选材与排序
 
