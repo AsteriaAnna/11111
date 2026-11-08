@@ -2,6 +2,8 @@
 
 检索日期：2026-11-07。以下优先采用大学职业中心与招聘方发布的一手指导。它们支持本 skill 的工作方向；具体的优先级判断、交接格式和停止条件是本项目的设计，不代表这些机构制定了统一招聘标准。
 
+2026-11-08 的“身份定位 → 项目价值与个人角色 → 按 JD 建立职责地图 → 描述性标题”的呈现架构，来自用户对前两轮测试稿的明确反馈，是本项目的设计选择，不宣称为下列机构统一推荐的简历格式。实施时仍受真实性和可核验边界约束。
+
 ## Skill 规范与编排
 
 - [Agent Skills Specification](https://agentskills.io/specification) 规定目录、YAML 元数据和可选参考资料的格式。[Best practices for skill creators](https://agentskills.io/skill-creation/best-practices) 主张从真实任务与纠错提炼程序，控制入口长度，把条件性细节放到按需读取的参考资料，并用真实执行持续修订。本 skill 将共通决策写在入口，将岗位视角另置参考文件。
